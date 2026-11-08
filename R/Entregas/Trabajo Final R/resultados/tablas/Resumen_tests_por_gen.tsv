@@ -1,0 +1,4 @@
+Test	Genes	p_minimo	p_menor_0.05
+t de Student	262	2.22721234356721e-07	145
+t de Welch	48	0.000358353513524673	32
+U de Mann-Whitney	309	0.0636025696207536	0
