@@ -1,4 +1,0 @@
-Escenario	p_menor_0.05	FDR_BH_menor_0.05	Coinciden_con_principal
-Principal: test según normalidad (3 vs 3, TPM)	177	111	177
-Welch sobre log2(TPM + 1) (3 vs 3)	322	211	152
-Welch sobre log2(TPM + 1) sin 1W5-COV (3 vs 2)	156	45	90
